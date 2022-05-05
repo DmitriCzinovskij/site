@@ -1,0 +1,14 @@
+.navbar {}
+
+.bg-light {}
+.container-fluid {}
+.navbar-brand {}
+.navbar-toggler {}
+.navbar-toggler-icon {}
+.collapse {}
+.navbar-collapse {}
+.navbar-nav {}
+.nav-item {}
+.nav-link {}
+.active {}
+.disabled {}
